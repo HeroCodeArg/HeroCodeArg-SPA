@@ -1,0 +1,10 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    }
+
+.container-fluid.p-2{
+    background-color: #8745f2;
+    margin: 0%;
+    padding: 0%;
+}
